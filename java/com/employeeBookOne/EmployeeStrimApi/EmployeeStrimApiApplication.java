@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class  EmployeeStrimApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EmployeeStrimApiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EmployeeStrimApiApplication.class, args);
+    }
 
 }

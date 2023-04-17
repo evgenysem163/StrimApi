@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 
         public Employee addEmployee(Employee employee) {
             employees.add(employee);
-            return employee;
+            return  employee;
         }
 
         public Employee findMaxSalary(int department) throws NotFindException {
